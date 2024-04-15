@@ -1100,14 +1100,14 @@
   disabled: false
   hours: 2
   position: Principal software engineer, Apple
-  sort: 10
+  sort: 200
   type: long-term
   index: 37
   location: United Kingdom, London
   bio: 18 years of experience in developing highly scalable distributed systems, majorly in data storage systems and fintech domains. Experience driving projects and leading teams
   image: assets/images/mentors/37.svg
   languages: English
-  availability: []
+  availability: [5, 6]
   skills:
     experience: 16+ Years
     years: 16
