@@ -875,7 +875,7 @@
 - name: Monal Sanghvi
   disabled: false
   matched: true
-  sort: 10
+  sort: 200
   hours: 2
   type: both
   index: 29
@@ -884,7 +884,7 @@
   image: assets/images/mentors/29.png
   location: London, UK
   languages: English
-  availability: []
+  availability: [5, 6]
   skills:
     experience: 10-15 years
     years: 15
